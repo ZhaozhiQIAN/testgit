@@ -1,4 +1,1 @@
-sfdfd
-sdfsdfd
-sdffsdfsdf
-
+something is in b.txt
